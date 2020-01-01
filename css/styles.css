@@ -1,0 +1,120 @@
+#title{
+  background-color: #f8b400;
+}
+.socialmedia i{
+  padding-left: 1%;
+  padding-right: 1%;
+}
+body{
+  font-family: "Montserrat";
+  margin-right: 0;
+}
+.container{
+  padding:3% 5%;
+}
+.iphone6{
+  width:100%;
+}
+h1{
+  font-family: "Montserrat",sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:#272727;
+}
+h3{
+  font-size: 3rem;
+}
+.paws{
+left:-5%;
+  width: 10%;
+  position: absolute;
+}
+.navbar{
+  padding: 0;
+  padding-bottom: 4.5rem;
+
+}
+.navbar-brand{
+  background-color: #da2d2d;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 3rem;
+  font-weight: bold;
+  padding:0 1rem;
+
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-size:1.2rem;
+  font-weight: light;
+}
+.download-button{
+  margin:10% 5% 0 0;
+}
+#features{
+  padding:7% 15%;
+}
+.featurebox{
+  text-align: center;
+  font-family: 'Rancho', cursive;
+  font-size: 2rem;
+}
+.icon{
+  color:#eb4d55;
+  margin-bottom: 10%;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ffe8d6;
+font-family: 'Rancho';
+  color:#414141;
+
+  font-size: 250%;
+
+}
+.carousel-item{
+  padding:3% 15%;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width:10%;
+}
+#press{
+    background-color: #ffe8d6;
+}
+.certificate{
+position: relative;
+padding: 1%;
+margin-left: 7rem;
+height: 10%;
+width: 15%;
+}
+.card{
+  text-align: center;
+
+}
+.card-header{
+    font-family: 'Rubik', sans-serif;
+    background-color: #fff3af;
+}
+.card-text{
+    font-family: 'Rancho', cursive;
+    font-size: 1.5rem;
+
+}
+h5{
+  color:#da2d2d;
+}
+.container1{
+  margin-top: 15%;
+  padding-bottom: 1%;
+  background-color: #f8b400;
+  font-family: 'Rancho', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.download-button1{
+  margin: 2%;
+  padding:auto 2%;
+}
